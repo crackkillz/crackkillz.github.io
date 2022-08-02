@@ -1,0 +1,12 @@
+{
+    "name": "Children Of Chaos",
+    "main": "index.html",
+    "js-flags": "--expose-gc",
+    "window": {
+        "title": "Children Of Chaos",
+        "toolbar": false,
+        "width": 816,
+        "height": 624,
+        "icon": "icon/icon.png"
+    }
+}
